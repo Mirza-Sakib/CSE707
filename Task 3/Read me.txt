@@ -12,6 +12,8 @@ Tamer Ozsu
 2011
 Springer
 
+Chapter-3 [Distributed Database Design]
+
 Link to the book: 
 https://vulms.vu.edu.pk/Courses/CS712/Downloads/Principles%20of%20Distributed%20Database%20Systems.pdf
 
