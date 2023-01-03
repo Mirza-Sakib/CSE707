@@ -1,0 +1,18 @@
+Link to unlisted youtube video: https://youtu.be/dt5SX6Hbn4c
+
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1gd_6rHYL1T_-uab--N6UvbMMllHqwK53/edit#slide=id.p7
+
+Paper title:
+Bigtable: A Distributed Storage System for Structured Data
+
+Link to the paper:
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf
+
+Group Number:
+12
+
+Group Members:
+22166017 Mirza Md. Nazmus Sakib
+22166047 Irfana Afifa
