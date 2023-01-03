@@ -1,0 +1,6 @@
+Paper title: Federated Learning and Deep Learning Architecture for Pneumonia Classification using Chest X-Ray Images
+Group Number:12
+
+Group Members:
+22166017	Mirza Md. Nazmus Sakib
+22166047	Irfana Afifa
