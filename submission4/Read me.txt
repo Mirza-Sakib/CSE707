@@ -2,14 +2,11 @@ Unlisted youtube video: (can not completed on time)
 
 
 Conference submitted paper / paper submission / login Link:
-
+https://easychair.org/conferences/submitted?a=30125598;submission=6341430;track=296889
+https://easychair.org/conferences/?conf=europar2023
 
 Paper title:
-Federated Learning and Deep Learning Architecture
-for Pneumonia Classification using Chest X-Ray
-Images
-
-
+Federated Learning and Deep Learning Architecture for Pneumonia Classification using Chest X-Ray Images
 
 
 Paper submission date (to workshop/conference):
@@ -21,11 +18,11 @@ Paper submission ID: (received) from conference/workshop
 
 
 Conference Name:  
-
+Euro-Par'2023: 29th International European Conference on Parallel and Distributed Computing (Euro-Par'2023)
 
 
 Conference URL: 
-
+https://conferences.computer.org/icws/2023/
 
 
 Group Number:
